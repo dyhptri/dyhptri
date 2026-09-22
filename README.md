@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0C1D,50:2A0A29,100:740001&height=220&section=header&text=Dyah%20Putri&fontSize=55&fontColor=D3A625&fontAlignY=38&desc=Backend%20Wizard%20%7C%20Politeknik%20Negeri%20Malang&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0C1D,50:2A0A29,100:740001&height=220&section=header&text=Diyah%20Putri&fontSize=55&fontColor=D3A625&fontAlignY=38&desc=Backend%20Wizard%20%7C%20Politeknik%20Negeri%20Malang&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&size=24&duration=3500&pause=800&color=D3A625&center=true&vCenter=true&width=700&height=60&lines=Welcome+to+my+corner+of+the+wizarding+web+%E2%9A%A1;A+Politeknik+Negeri+Malang+student;Brewing+code+with+PHP+%26+Laravel;Casting+spells+in+Flutter+%26+JavaScript" alt="Typing SVG" />
 
