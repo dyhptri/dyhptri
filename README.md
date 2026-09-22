@@ -32,7 +32,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dyhptri&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=D3A625&text_color=EEBA30&icon_color=740001&ring_color=D3A625" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dyhptri&layout=compact&hide_border=true&bg_color=0D1117&title_color=D3A625&text_color=EEBA30&langs_count=8" />
 
 </div>
@@ -64,9 +63,9 @@
 <div align="center">
 
 <!-- Ganti link di bawah ini dengan akun kamu -->
-<a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-740001?style=for-the-badge&logo=instagram&logoColor=D3A625" /></a>
+<a href="https://www.instagram.com/dyhptri_09/" target="_blank"><img src="https://img.shields.io/badge/Instagram-740001?style=for-the-badge&logo=instagram&logoColor=D3A625" /></a>
 <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-740001?style=for-the-badge&logo=linkedin&logoColor=D3A625" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-740001?style=for-the-badge&logo=gmail&logoColor=D3A625" /></a>
+<a href="mailto:diyahrp10@gmail.com"><img src="https://img.shields.io/badge/Email-740001?style=for-the-badge&logo=gmail&logoColor=D3A625" /></a>
 
 </div>
 
